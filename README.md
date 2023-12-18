@@ -1,2 +1,2 @@
-# G_Kondra-Exercises
+# G_Kondrataviciute-Exercises
 Java exercises
